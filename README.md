@@ -112,7 +112,7 @@ swift build
 ## 📞 联系方式
 
 - GitHub: [@zeroyearn](https://github.com/zeroyearn)
-- 电子邮件: [您的邮箱]
+- 电子邮件: i@34.ci
 
 ---
 
